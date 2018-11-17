@@ -1,0 +1,12 @@
+html {
+    background-color:lightgrey;
+}
+
+img {
+    text-align: center;
+}
+
+.hover {
+    font-size: 20px;
+    color:  red;
+}
